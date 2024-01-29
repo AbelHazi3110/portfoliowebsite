@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Hello this is a Website 
+you can take the whole thing if you want to use it
+Abel Hazi :)
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
